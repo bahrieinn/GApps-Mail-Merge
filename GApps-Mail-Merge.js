@@ -1,5 +1,26 @@
-/*This is basically a mashup of many mail merge scripts already out there
-the only difference being an included editor to compose templated emails all within the spreadsheet
+/*GApps Mail Merge
+*version 1.0
+*License GPL
+*Author: Brian Tong (bahrieinn@gmail.com)
+
+
+/*Copying Permission
+	This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+/*Description
+ This is basically a mashup of many mail merge scripts already out there
+ the only difference being an included editor to compose templated emails all within the spreadsheet
  Majority of script functionality straight from Google's Tutorial: Simple Mail Merge.
  Snippet for sent status and timestamp borrowed from alexdesignworks' mail merge script
  */
